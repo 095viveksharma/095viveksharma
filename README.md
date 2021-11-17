@@ -4,13 +4,13 @@ I am an MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam
 
 <h2>About Me :book: </h2>
 
-🔭 I’m currently Pursuing MCA from A.P.J Abdul Kalam Technical University
-🌱 Check out my protfolio at https://095viveksharma.github.io/viveksharma.git.io/
-🔁"Strong intuitions come with strong applied knowledge."
-🗓️Disciplined, Time bound, works out everything will full dedication and focus.
-🤔 I’m looking for a full time apportunity ...
-♾️In love with Datastructures and Algorithms.
-💯Constant, consistent learner for life.
+🔭 I’m currently Pursuing MCA from A.P.J Abdul Kalam Technical University<br>
+🌱 Check out my protfolio at https://095viveksharma.github.io/viveksharma.git.io/<br>
+🔁"Strong intuitions come with strong applied knowledge." <br>
+🗓️Disciplined, Time bound, works out everything will full dedication and focus.<br>
+🤔 I’m looking for a full time apportunity ...<br>
+♾️In love with Datastructures and Algorithms.<br>
+💯Constant, consistent learner for life.<br>
 
 <h2> Current Goals 🔭 </h2>
 
