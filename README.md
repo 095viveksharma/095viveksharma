@@ -26,4 +26,15 @@ I am an MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam
   <a href = "https://auth.geeksforgeeks.org/user/095viveksharma/profile"> GeeksForGeeks </a> 
 </p>
 
+<hr>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=095viveksharma&show_icons=true)
+
+## Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=095viveksharma&theme=blue-green)
+
+## Today's Technical Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 
