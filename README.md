@@ -12,13 +12,6 @@ I am an MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam
 ♾️ In love with Datastructures and Algorithms.<br>
 💯 Constant, consistent learner for life.<br>
 
-<h2> Current Goals 🔭 </h2>
-
-- Complete understanding of Data Structures and Algorithms
-- Solving 500+ questions on LeetCode and GFG respectively.
-- Interview Preparations
-- Quantitative Aptitude Preparation
-- Advanced C++ Coding 
 
 <h2>Connect With Me :handshake: </h2>
 <p>
