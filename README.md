@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Vivek Sharma 👋</h1>
 <p><h1>💻 😃 💻</h1></p>
-I am an MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam Technical University, Lucknow(U.P). Being a tech enthusiast I love to explore new technology and i am quite interested in software development and crafting myself towards the same.
+I am an MCA (Master's in computer Application) student at Dr. A.P.J. Abdul Kalam Technical University, Lucknow(U.P). Currently working as SDE-1 in Nagarro. Being a tech enthusiast I love to explore new technology and i am quite interested in software development and crafting myself towards the same.
 
 <h2>About Me :book: </h2>
 
